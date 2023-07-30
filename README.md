@@ -1,2 +1,2 @@
-# Siple_REACT_Project
+# Simple_REACT_Project
 Simple react project

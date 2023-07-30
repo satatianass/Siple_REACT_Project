@@ -1,0 +1,13 @@
+
+.App {
+  text-align: center;
+    width: 50%;
+    margin: auto;
+
+}
+.border{
+  background-color: aquamarine;
+  border: .5px solid grey;
+  border-radius: 5px;
+  color: royalblue;
+}
